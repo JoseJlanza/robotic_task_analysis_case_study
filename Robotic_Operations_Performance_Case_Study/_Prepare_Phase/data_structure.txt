@@ -1,0 +1,10 @@
+Column Name							Description & Relevance
+Robot_ID					Identifies individual robots; useful for tracking performance per robot.
+Task_Type					Defines the type of task performed, allowing categorization of efficiency and errors.
+Processing_Time_s_				Represents task duration (critical for efficiency analysis).
+Accuracy_%_					Indicates performance quality (potential correlation with failure rates).
+Environmental_Status				May impact performance (e.g., temperature, humidity affecting failures).
+Energy_Consumption_kWh_	Measures		 efficiency per task (optional for deeper insights).
+Human_Intervention_Needed			Indicates whether a robot required human assistance (failure indicator).
+Obstacle_Detected				Could contribute to task delays and failures.
+Defect_Detected	Key indicator for failure analysis.

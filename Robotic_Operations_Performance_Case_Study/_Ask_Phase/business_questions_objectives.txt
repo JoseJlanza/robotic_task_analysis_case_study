@@ -1,0 +1,9 @@
+ Business Questions
+
+What are the most time-consuming robotic tasks?
+
+Which tasks have the highest failure rates?
+
+Are there patterns in failures (e.g., environmental conditions, machine types)?
+
+How can we optimize task completion times to improve efficiency?

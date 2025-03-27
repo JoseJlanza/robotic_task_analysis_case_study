@@ -42,4 +42,6 @@ Robotic_Operations_Performance_Case_Study/
 │── insights.md  (Key findings from the analysis)
 │── visualizations/  (Screenshots or links to Looker Studio dashboards)
 ```
+## 🔗 Live Dashboard
+[View the Looker Studio Dashboard]https://lookerstudio.google.com/reporting/a627256b-d0ed-42c1-896e-faeea56fa568
 
